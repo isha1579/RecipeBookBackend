@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\RecipeBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4385FBAC-B3E3-4901-AA42-07C480D2DF4C}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\recipebook\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4385FBAC-B3E3-4901-AA42-07C480D2DF4C}|Services\\Services.csproj|solutionrelative:services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2DC26D-BC31-48BD-BCF2-6AA80BBBD2EC}|RecipeBook\\Model.csproj|c:\\users\\hp\\source\\repos\\recipebook\\recipebook\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2DC26D-BC31-48BD-BCF2-6AA80BBBD2EC}|RecipeBook\\Model.csproj|solutionrelative:recipebook\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2DC26D-BC31-48BD-BCF2-6AA80BBBD2EC}|RecipeBook\\Model.csproj|c:\\users\\hp\\source\\repos\\recipebook\\recipebook\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2DC26D-BC31-48BD-BCF2-6AA80BBBD2EC}|RecipeBook\\Model.csproj|solutionrelative:recipebook\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7E7E45-5D4A-4212-B398-648815BD23B7}|DatasetAPI\\DatasetAPI.csproj|c:\\users\\hp\\source\\repos\\recipebook\\datasetapi\\appdemocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7E7E45-5D4A-4212-B398-648815BD23B7}|DatasetAPI\\DatasetAPI.csproj|solutionrelative:datasetapi\\appdemocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398F4AA2-090E-4C4C-82D2-56658A2CC3A8}|Controllers\\Controllers.csproj|c:\\users\\hp\\source\\repos\\recipebook\\controllers\\usercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398F4AA2-090E-4C4C-82D2-56658A2CC3A8}|Controllers\\Controllers.csproj|solutionrelative:controllers\\usercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398F4AA2-090E-4C4C-82D2-56658A2CC3A8}|Controllers\\Controllers.csproj|c:\\users\\hp\\source\\repos\\recipebook\\controllers\\controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398F4AA2-090E-4C4C-82D2-56658A2CC3A8}|Controllers\\Controllers.csproj|solutionrelative:controllers\\controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398F4AA2-090E-4C4C-82D2-56658A2CC3A8}|Controllers\\Controllers.csproj|c:\\users\\hp\\source\\repos\\recipebook\\controllers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398F4AA2-090E-4C4C-82D2-56658A2CC3A8}|Controllers\\Controllers.csproj|solutionrelative:controllers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4385FBAC-B3E3-4901-AA42-07C480D2DF4C}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\recipebook\\services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4385FBAC-B3E3-4901-AA42-07C480D2DF4C}|Services\\Services.csproj|solutionrelative:services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\RecipeBook\\Controllers\\UserControllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserControllers.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\RecipeBook\\Controllers\\UserControllers.cs",
+              "RelativeToolTip": "Controllers\\UserControllers.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:47:11.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\RecipeBook\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\RecipeBook\\Services\\UserServices.cs",
+              "RelativeToolTip": "Services\\UserServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:46:17.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\RecipeBook\\RecipeBook\\UserLogin.cs",
+              "RelativeDocumentMoniker": "RecipeBook\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\RecipeBook\\RecipeBook\\UserLogin.cs",
+              "RelativeToolTip": "RecipeBook\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:29:39.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\RecipeBook\\Controllers\\Program.cs",
+              "RelativeDocumentMoniker": "Controllers\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\RecipeBook\\Controllers\\Program.cs",
+              "RelativeToolTip": "Controllers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:21:23.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\RecipeBook\\Services\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Class1.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\RecipeBook\\Services\\Class1.cs",
+              "RelativeToolTip": "Services\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:02:08.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDemoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\RecipeBook\\DatasetAPI\\AppDemoContext.cs",
+              "RelativeDocumentMoniker": "DatasetAPI\\AppDemoContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\RecipeBook\\DatasetAPI\\AppDemoContext.cs",
+              "RelativeToolTip": "DatasetAPI\\AppDemoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:18:39.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Controllers.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\RecipeBook\\Controllers\\Controllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\Controllers.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\RecipeBook\\Controllers\\Controllers.cs",
+              "RelativeToolTip": "Controllers\\Controllers.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAwwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:00:17.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\RecipeBook\\RecipeBook\\Recipe.cs",
+              "RelativeDocumentMoniker": "RecipeBook\\Recipe.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\RecipeBook\\RecipeBook\\Recipe.cs",
+              "RelativeToolTip": "RecipeBook\\Recipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:15:17.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

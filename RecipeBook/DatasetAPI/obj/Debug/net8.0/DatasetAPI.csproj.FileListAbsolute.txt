@@ -1,0 +1,17 @@
+C:\Users\Hp\source\repos\RecipeBook\DatasetAPI\bin\Debug\net8.0\DatasetAPI.deps.json
+C:\Users\Hp\source\repos\RecipeBook\DatasetAPI\bin\Debug\net8.0\DatasetAPI.runtimeconfig.json
+C:\Users\Hp\source\repos\RecipeBook\DatasetAPI\bin\Debug\net8.0\DatasetAPI.dll
+C:\Users\Hp\source\repos\RecipeBook\DatasetAPI\bin\Debug\net8.0\DatasetAPI.pdb
+C:\Users\Hp\source\repos\RecipeBook\DatasetAPI\bin\Debug\net8.0\Model.dll
+C:\Users\Hp\source\repos\RecipeBook\DatasetAPI\bin\Debug\net8.0\Model.pdb
+C:\Users\Hp\source\repos\RecipeBook\DatasetAPI\obj\Debug\net8.0\DatasetAPI.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\RecipeBook\DatasetAPI\obj\Debug\net8.0\DatasetAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\RecipeBook\DatasetAPI\obj\Debug\net8.0\DatasetAPI.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\RecipeBook\DatasetAPI\obj\Debug\net8.0\DatasetAPI.AssemblyInfo.cs
+C:\Users\Hp\source\repos\RecipeBook\DatasetAPI\obj\Debug\net8.0\DatasetAPI.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\RecipeBook\DatasetAPI\obj\Debug\net8.0\DatasetAPI.csproj.Up2Date
+C:\Users\Hp\source\repos\RecipeBook\DatasetAPI\obj\Debug\net8.0\DatasetAPI.dll
+C:\Users\Hp\source\repos\RecipeBook\DatasetAPI\obj\Debug\net8.0\refint\DatasetAPI.dll
+C:\Users\Hp\source\repos\RecipeBook\DatasetAPI\obj\Debug\net8.0\DatasetAPI.pdb
+C:\Users\Hp\source\repos\RecipeBook\DatasetAPI\obj\Debug\net8.0\DatasetAPI.genruntimeconfig.cache
+C:\Users\Hp\source\repos\RecipeBook\DatasetAPI\obj\Debug\net8.0\ref\DatasetAPI.dll
